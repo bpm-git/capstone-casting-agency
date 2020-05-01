@@ -29,7 +29,6 @@ Our tech stack will include:
   ```sh
     ├── src                   ('All the backend api part are structured under this directory')
     │   │
-    │   ├── .env              ('Environment file for setting up the variables')
     │   ├── app.py            ('App file to process the routes, manages the data model based upon auth')  
     │   ├── auth.py           ('Authentication and Authorization')
     │   ├── models.py         ('Has all the data model files and CRUD performer')
